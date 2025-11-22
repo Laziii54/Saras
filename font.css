@@ -1,0 +1,16 @@
+@font-face {
+    font-family: bold-tbc;
+    src: url(/font/fonts/TBCContractica-Bold.ttf);
+}
+@font-face {
+    font-family: regularCaps;
+    src: url(fonts/TBCContracticaCAPS-Regular.ttf);
+}
+@font-face {
+    font-family: regular;
+    src: url(fonts/TBCContractica-Regular.ttf);
+}
+@font-face {
+    font-family: book;
+    src: url(fonts/TBCContractica-Book.ttf);
+}

@@ -36,7 +36,7 @@ span.for-h1-styles {
 }
 
 header {
-  background-image: url(Mask\ group.jpg);
+  background-image: url(Mask\group.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   padding-top: 44px;
@@ -519,15 +519,15 @@ nav .searchInput::placeholder {
 }
 
 .bg-img1 {
-  background-image: url(photos/2685.jpg) !important;
+  background-image: url(2685.jpg) !important;
 }
 
 .bg-img2 {
-  background-image: url(photos/2675.jpg) !important;
+  background-image: url(2675.jpg) !important;
 }
 
 .bg-img {
-  background-image: url(photos/2679\ 1.png);
+  background-image: url(2679\ 1.png);
 }
 
 .bg-img,

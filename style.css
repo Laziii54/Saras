@@ -123,6 +123,7 @@ nav .for-bullet::after {
   top: 7px;
   margin-left: 7px;
   margin-top: 43px;
+  border-radius: 100px;
 }
 nav .nav-first {
   top: 9.63px;
